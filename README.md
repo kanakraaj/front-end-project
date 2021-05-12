@@ -1,12 +1,13 @@
 # front-end-project
 This is an front end project by using reactjs
 #  is used to heading 1 . After # you need to give space. remember.
-## is heading 2 dont forget to give space.
+## is used to heading 2           dont forget to give space.
 ###  is used to heading 3
 ####  is used to heading 4
 ##### is used to heading 5
 ######  is used to heading 6
-we are able to give 4 HASH
+
+# Style
 
 *font style in itallic* dont give spaces after star 
 
@@ -38,3 +39,8 @@ we are able to give 4 HASH
     2. hash
     3. braces
     4. dollar symbol
+
+# IMAGE
+![LORD JESUS CHRIST ]()
+# links
+[google](http://google.com)
