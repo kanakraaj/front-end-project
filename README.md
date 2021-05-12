@@ -4,6 +4,8 @@ This is an front end project by using reactjs
 ## is heading 2 dont forget to give space.
 ###  is used to heading 3
 ####  is used to heading 4
+##### is used to heading 5
+######  is used to heading 6
 we are able to give 4 HASH
 
 *font style in itallic* dont give spaces after star 
@@ -31,7 +33,7 @@ we are able to give 4 HASH
 1. Alphabets
 2. Digts
 3. special sysbols
-4. ( delete this star so that we can create sub items. after removing star give tab double space then give star )
+4.( delete this number so that we can create sub items. after removing number give tab double space then give star )
     1. star
     2. hash
     3. braces
