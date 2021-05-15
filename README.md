@@ -41,7 +41,7 @@ This is an front end project by using reactjs
     4. dollar symbol
 
 # IMAGE
-![LORD JESUS CHRIST ](https://www.mygodpictures.com/wp-content/uploads/2015/02/Lord-Jesus-Christ-Standing-In-Heaven-550x367.jpg)
+![LORD JESUS CHRIST ](https://user-images.githubusercontent.com/83977119/118355455-b795dc00-b58d-11eb-9cd3-0e5c1a854ee5.png)
 # links
 [google](https://google.com)
 
